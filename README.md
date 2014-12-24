@@ -7,6 +7,8 @@ Just another repository.
 
 commit test.
 
+<p align="right">right aligned text!</right>
+
 ## Install
 ### Link Test
 * Auto Linking http://3dtech.jp/
