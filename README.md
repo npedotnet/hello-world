@@ -72,3 +72,6 @@ eee  | fff
 ## Examples
 ### Image Test
 ![alt text](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png "github")
+
+### Japanese Test
+* これは日本語です
